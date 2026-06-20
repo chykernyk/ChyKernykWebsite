@@ -1,0 +1,6 @@
+---
+distFolder: dist
+buildEnv:
+  name: node
+  version: "20"
+buildCommand: npm install && npm run build
