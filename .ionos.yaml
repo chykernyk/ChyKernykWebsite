@@ -1,5 +1,5 @@
 ---
-distFolder: dist
+distFolder: out
 buildEnv:
   name: node
   version: "20"
